@@ -1,0 +1,17 @@
+{
+  "name": "terminal-quizz",
+  "version": "1.0.0",
+  "main": "terminal-quizz.js",
+  "type": "module",
+  "scripts": {
+    "start": "node terminal-quizz.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {},
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
